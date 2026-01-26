@@ -63,7 +63,7 @@ MediTap（以下「本アプリ」）は、ユーザーのプライバシーを�
 
 本プライバシーポリシーに関するご質問は、以下までご連絡ください：
 
-**メール**: []
+**メール**: [seloapp.dev@gmail.com]
 
 ---
 
@@ -126,4 +126,4 @@ This Privacy Policy may be updated as needed. Significant changes will be announ
 
 For questions about this Privacy Policy, please contact:
 
-**Email**: []
+**Email**: [seloapp.dev@gmail.com]
