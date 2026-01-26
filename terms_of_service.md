@@ -48,7 +48,7 @@
 
 本規約に関するお問い合わせは、以下までご連絡ください：
 
-**メール**: []
+**メール**: [seloapp.dev@gmail.com]
 
 ---
 
@@ -96,4 +96,4 @@ These Terms are governed by the laws of Japan. Any disputes shall be subject to 
 
 For questions about these Terms, please contact:
 
-**Email**: []
+**Email**: [seloapp.dev@gmail.com]
