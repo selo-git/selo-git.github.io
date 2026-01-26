@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 # プライバシーポリシー / Privacy Policy
 
 **最終更新日 / Last Updated: 2026-01-26**
