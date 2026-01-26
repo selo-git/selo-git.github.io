@@ -1,3 +1,7 @@
+---
+title: Terms of Service
+---
+
 # 利用規約 / Terms of Service
 
 **最終更新日 / Last Updated: 2026-01-26**
