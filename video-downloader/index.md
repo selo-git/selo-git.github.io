@@ -32,6 +32,8 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python app.py   # → http://localhost:3456 を開く
 ```
 
+2回目以降は同梱の **「Video Downloader.app」をダブルクリック**するだけで起動できます(終了はアプリ内の設定タブから)。
+
 ## 注意事項
 
 本ツールは、ご自身がアップロードした動画や、権利者がダウンロードを許可しているコンテンツの保存を目的としています。各サイトの利用規約と著作権法を遵守してご利用ください。
