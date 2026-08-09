@@ -2,7 +2,9 @@
 title: selo-git
 ---
 
-# MediTap 公開ページ
+# selo-git
 
-- [プライバシーポリシー](/privacy_policy.html)
-- [利用規約](/terms_of_service.html)
+## Projects
+
+- [MediTap](/meditap/) — 服薬管理アプリの公開ページ（プライバシーポリシー・利用規約）
+- [PDF Toolkit](/pdf-toolkit/) — PDF ツール

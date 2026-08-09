@@ -1,5 +1,8 @@
 ---
 title: Terms of Service
+redirect_from:
+  - /terms_of_service.html
+  - /terms_of_service
 ---
 
 # 利用規約 / Terms of Service

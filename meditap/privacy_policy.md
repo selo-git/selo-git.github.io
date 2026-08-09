@@ -1,5 +1,8 @@
 ---
 title: Privacy Policy
+redirect_from:
+  - /privacy_policy.html
+  - /privacy_policy
 ---
 
 # プライバシーポリシー / Privacy Policy
