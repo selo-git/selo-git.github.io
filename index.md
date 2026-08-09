@@ -8,4 +8,4 @@ title: selo-git
 
 - [MediTap](/meditap/) — 服薬管理アプリの公開ページ（プライバシーポリシー・利用規約）
 - [PDF Toolkit](/pdf-toolkit/) — PDF ツール
-- [Video Downloader](https://github.com/selo-git/video-downloader) — 動画ダウンロード・Whisper文字起こしのローカルWebアプリ（GitHub）
+- [Video Downloader](/video-downloader/) — 動画ダウンロード・Whisper文字起こしのローカルWebアプリ
